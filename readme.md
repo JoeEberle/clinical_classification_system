@@ -10,7 +10,7 @@ This solution extends and enhances the ICD-10-CM diagnosis standard to include d
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
