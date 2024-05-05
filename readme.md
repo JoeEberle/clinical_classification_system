@@ -48,5 +48,5 @@ To get started with the **Clinical Classification System** solution repository, 
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](classification.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](classification.png)  <br>
     
