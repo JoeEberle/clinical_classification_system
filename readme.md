@@ -4,21 +4,11 @@
 
 ## This solution extends and enhances the ICD-10-CM diagnosis standard to include disease classifications that can be used for registries and care outreach. 
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Clinical Classification System** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Clinical Classification System** 
 
 This solution extends and enhances the ICD-10-CM diagnosis standard to include disease classifications that can be used for registries and care outreach. 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
